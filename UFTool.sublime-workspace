@@ -1,0 +1,1335 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"l",
+				"load( filename : Dynamic ) : Dynamic"
+			],
+			[
+				"target",
+				"targetDir"
+			],
+			[
+				"crea",
+				"createDirectory(...) : Bool"
+			],
+			[
+				"C",
+				"Context [class]"
+			],
+			[
+				"c",
+				"create(...) : massive.neko.io.File"
+			],
+			[
+				"Fil",
+				"File [class]"
+			],
+			[
+				"File",
+				"FileSys [class]"
+			],
+			[
+				"UF",
+				"UFTool [class]"
+			],
+			[
+				"Crea",
+				"CreateModelCommand [class]"
+			],
+			[
+				"FIles",
+				"FileSystem [neko]"
+			],
+			[
+				"Fi",
+				"FileSys [class]"
+			],
+			[
+				"d",
+				"createDirectory( path : String ) : Void"
+			],
+			[
+				"pro",
+				"projectName"
+			],
+			[
+				"UFT",
+				"UFToolInit [class]"
+			],
+			[
+				"std",
+				"stdin() : neko.io.FileInput"
+			],
+			[
+				"print",
+				"println( v : Dynamic ) : Void"
+			],
+			[
+				"getC",
+				"getClassFields(...) : Array<String>"
+			],
+			[
+				"pr",
+				"print( v : Dynamic ) : Void"
+			],
+			[
+				"view",
+				"viewPath"
+			],
+			[
+				"inter",
+				"interviewsByDate"
+			],
+			[
+				"book",
+				"bookingsStillOpen"
+			],
+			[
+				"get",
+				"getPropertyValue(...) : js.w3c.DOMString"
+			],
+			[
+				"w",
+				"w3c [package]"
+			],
+			[
+				"isE",
+				"isElement() : Bool"
+			],
+			[
+				"wid",
+				"width : js.w3c.DOMString"
+			],
+			[
+				"ge",
+				"getComputedStyle(...) : CSSStyleDeclaration"
+			],
+			[
+				"wi",
+				"window : Window"
+			],
+			[
+				"elm",
+				"isElement() : Bool"
+			],
+			[
+				"is",
+				"isElement() : Bool"
+			],
+			[
+				"inn",
+				"innerWidth"
+			],
+			[
+				"len",
+				"length : Int"
+			],
+			[
+				"att",
+				"setAttr(...) : js.w3c.level3.Node"
+			],
+			[
+				"cur",
+				"currentTarget : EventTarget"
+			],
+			[
+				"ho",
+				"hover(...) : domtools.Node"
+			],
+			[
+				"g",
+				"getWindow() : Window"
+			],
+			[
+				"onlo",
+				"onload : Event>"
+			],
+			[
+				"html5",
+				"html5 [package]"
+			],
+			[
+				"w3c",
+				"w3c [package]"
+			],
+			[
+				"D",
+				"Dom [class]"
+			],
+			[
+				"Dom",
+				"Dom [class]"
+			],
+			[
+				"tog",
+				"toggleClick(...) : domtools.Node"
+			],
+			[
+				"add",
+				"addEventListener(...) : Void"
+			],
+			[
+				"ty",
+				"type : js.w3c.DOMString"
+			],
+			[
+				"re",
+				"removeEventListener(...) : Void"
+			],
+			[
+				"te",
+				"text() : String"
+			],
+			[
+				"tag",
+				"tagName() : String"
+			],
+			[
+				"E",
+				"Events"
+			],
+			[
+				"Eve",
+				"Events [class]"
+			],
+			[
+				"Event",
+				"Events"
+			],
+			[
+				"rem",
+				"removeEventListener(...) : Void"
+			],
+			[
+				"Events",
+				"Events"
+			],
+			[
+				"le",
+				"level3 [package]"
+			],
+			[
+				"o",
+				"on(...) : domtools.Query"
+			],
+			[
+				"on",
+				"on(...) : domtools.Node"
+			],
+			[
+				"dis",
+				"dispatchEvent(...) : Bool"
+			],
+			[
+				"cre",
+				"createEvent"
+			],
+			[
+				"body",
+				"body : js.w3c.html5.HTMLElement"
+			],
+			[
+				"Lib",
+				"Lib [class]"
+			],
+			[
+				"Query",
+				"Query"
+			],
+			[
+				"Qu",
+				"Query [class]"
+			],
+			[
+				"Ev",
+				"Events [class]"
+			],
+			[
+				"nex",
+				"nextSibling : js.w3c.level3.Node"
+			],
+			[
+				"Nod",
+				"Node"
+			],
+			[
+				"at",
+				"attr(...) : String"
+			],
+			[
+				"app",
+				"append(...) : js.w3c.level3.Node"
+			],
+			[
+				"firs",
+				"firstChild(...) : domtools.Query"
+			],
+			[
+				"ch",
+				"firstChild(...) : domtools.Query"
+			],
+			[
+				"DOMM",
+				"DOMManipulation [class]"
+			],
+			[
+				"insertThis",
+				"insertThisAfter [function]"
+			],
+			[
+				"in",
+				"insertThisBefore(...) : Void"
+			],
+			[
+				"inser",
+				"insertThisBefore(...) : Void"
+			],
+			[
+				"ne",
+				"nextSibling : js.w3c.level3.Node"
+			],
+			[
+				"insertThisB",
+				"insertThisBefore [function]"
+			],
+			[
+				"Que",
+				"QueryDOMManipulation [class]"
+			],
+			[
+				"DOM",
+				"DOMManipulation [class]"
+			],
+			[
+				"p",
+				"parentNode : js.w3c.level3.Node"
+			],
+			[
+				"fir",
+				"firstChild(...) : domtools.Query"
+			],
+			[
+				"fi",
+				"firstChild : js.w3c.level3.Node"
+			],
+			[
+				"a",
+				"append(...) : js.w3c.level3.Node"
+			],
+			[
+				"DOMMan",
+				"DOMManipulation [class]"
+			],
+			[
+				"cl",
+				"cloneNode(...) : js.w3c.level3.Node"
+			],
+			[
+				"Quer",
+				"QueryDOMManipulation [class]"
+			],
+			[
+				"insert",
+				"insertThisBefore [function]"
+			],
+			[
+				"befo",
+				"beforeThisInsert [function]"
+			],
+			[
+				"remo",
+				"removeChild(...) : js.w3c.level3.Node"
+			],
+			[
+				"has",
+				"hasChildNodes() : Bool"
+			],
+			[
+				"pare",
+				"parentNode : js.w3c.level3.Node"
+			],
+			[
+				"Node",
+				"Node"
+			],
+			[
+				"ins",
+				"insertBefore(...) : js.w3c.level3.Node"
+			],
+			[
+				"par",
+				"parentNode : js.w3c.level3.Node"
+			],
+			[
+				"fire",
+				"firstChild : js.w3c.level3.Node"
+			],
+			[
+				"inse",
+				"insertBefore(...) : js.w3c.level3.Node"
+			],
+			[
+				"ap",
+				"appendChild(...) : js.w3c.level3.Node"
+			],
+			[
+				"pre",
+				"previousSibling"
+			],
+			[
+				"parent",
+				"parentNode"
+			],
+			[
+				"va",
+				"val( elm : js.w3c.level3.Node ) : String"
+			],
+			[
+				"set",
+				"setAttr(...) : domtools.Query"
+			],
+			[
+				"ElementMan",
+				"ElementManipulation [class]"
+			],
+			[
+				"domtools",
+				"KeyboardAutomationAction [flash.automation]"
+			],
+			[
+				"to",
+				"toLowerCase() : String"
+			],
+			[
+				"node",
+				"nodeName : js.w3c.DOMString"
+			],
+			[
+				"la",
+				"lastChild : js.w3c.level3.Node"
+			],
+			[
+				"e",
+				"isElement() : Bool"
+			],
+			[
+				"no",
+				"nodeName(...) : String"
+			],
+			[
+				"pu",
+				"push( x : String ) : Int"
+			],
+			[
+				"str",
+				"toString( ?opt : Dynamic ) : String"
+			],
+			[
+				"nodeT",
+				"nodeType : js.w3c.UnsignedShort"
+			],
+			[
+				"nam",
+				"name"
+			],
+			[
+				"las",
+				"lastChild : js.w3c.level3.Node"
+			],
+			[
+				"ad",
+				"add(...) : domtools.Query"
+			],
+			[
+				"Tr",
+				"Traversing [class]"
+			],
+			[
+				"isEl",
+				"isElement() : Bool"
+			],
+			[
+				"chil",
+				"childNodes : js.w3c.level3.NodeList"
+			],
+			[
+				"chi",
+				"appendChild(...) : js.w3c.level3.Node"
+			],
+			[
+				"Tra",
+				"Traversing [class]"
+			],
+			[
+				"El",
+				"ElementManipulation [class]"
+			],
+			[
+				"sing",
+				"single [package]"
+			],
+			[
+				"ing",
+				"string"
+			],
+			[
+				"attr",
+				"setAttr(...) : domtools.Query"
+			],
+			[
+				"bod",
+				"body : js.w3c.html5.HTMLElement"
+			],
+			[
+				"tex",
+				"text() : String"
+			],
+			[
+				"T",
+				"Table [class]"
+			],
+			[
+				"this",
+				"TriangleCulling [flash.display]"
+			],
+			[
+				"do",
+				"getHtmlDocument() : HTMLDocument"
+			],
+			[
+				"create",
+				"createElement(...) : js.HtmlDom"
+			],
+			[
+				"q",
+				"querySelectorAll(...) : NodeList"
+			],
+			[
+				"addNo",
+				"addNodeList(...) : domtools.Query"
+			],
+			[
+				"next",
+				"nextSibling : js.w3c.level3.Node"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": ".mlib",
+			"settings":
+			{
+				"buffer_size": 299,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "build.hxml",
+			"settings":
+			{
+				"buffer_size": 864,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/UFTool.hx",
+			"settings":
+			{
+				"buffer_size": 1730,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/cmd/InitCommand.hx",
+			"settings":
+			{
+				"buffer_size": 2708,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/usr/share/haxe/std/neko/zip/Uncompress.hx",
+			"settings":
+			{
+				"buffer_size": 2614,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "templates/skeleton/.gitignore",
+			"settings":
+			{
+				"buffer_size": 100,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "SHELL> mysql --user=root? --password=your_password\n\n\nCREATE USER 'jason'@'localhost' IDENTIFIED BY '***';\n\nGRANT USAGE ON * . * TO 'jason'@'localhost' IDENTIFIED BY '***' WITH MAX_QUERIES_PER_HOUR 0 MAX_CONNECTIONS_PER_HOUR 0 MAX_UPDATES_PER_HOUR 0 MAX_USER_CONNECTIONS 0 ;\n\nCREATE DATABASE IF NOT EXISTS `jason` ;\n\nGRANT ALL PRIVILEGES ON `jason` . * TO 'jason'@'localhost';\n\n",
+			"settings":
+			{
+				"buffer_size": 377,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "templates/skeleton/README.md",
+			"settings":
+			{
+				"buffer_size": 3020,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/cmd/CreateControllerCommand.hx",
+			"settings":
+			{
+				"buffer_size": 383,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/cmd/CreateModelCommand.hx",
+			"settings":
+			{
+				"buffer_size": 378,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/cmd/ServerCommand.hx",
+			"settings":
+			{
+				"buffer_size": 373,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/UFToolInit.hx",
+			"settings":
+			{
+				"buffer_size": 659,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 2855,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"qu",
+				"Git: Quick Commit"
+			],
+			[
+				"diff",
+				"Git: Diff Current File"
+			],
+			[
+				"",
+				"Snippet: html"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/jason/workspace/autoform/notes.md",
+		"/usr/lib/haxe/std/neko/_std/EReg.hx",
+		"/home/jason/workspace/uftool/src/UFTool.hx",
+		"/usr/lib/haxe/lib/mlib/0,3,0,2/massive/neko/io/File.hx",
+		"/usr/share/haxe/std/neko/zip/Reader.hx",
+		"/usr/lib/haxe/lib/mlib/0,3,0,2/massive/neko/util/ZipUtil.hx",
+		"/home/jason/workspace/uftool/templates/skeleton/src/neko/util/ZipUtil.hx",
+		"/home/jason/workspace/uftool/templates/skeleton/build.hxml",
+		"/home/jason/workspace/uftool/templates/skeleton/src/AppConfig.hx",
+		"/home/jason/workspace/uftool/templates/skeleton/src/MyConfig.hx",
+		"/home/jason/workspace/uftool/templates/skeleton/src/controller/InstallController.hx",
+		"/home/jason/workspace/uftool/templates/skeleton/src/Main.hx",
+		"/home/jason/workspace/uftool/templates/skeleton/.uftool",
+		"/home/jason/workspace/uftool/templates/help_server.txt",
+		"/home/jason/workspace/uftool/templates/help_createModel.txt",
+		"/home/jason/workspace/uftool/templates/help_createController.txt",
+		"/home/jason/workspace/uftool/templates/help_init.txt",
+		"/usr/share/haxe/std/neko/db/Connection.hx",
+		"/usr/lib/haxe/std/sys/db/Manager.hx",
+		"/home/jason/workspace/invoiceufront/src/controller/InstallController.hx",
+		"/home/jason/workspace/invoiceufront/src/MyConfig.h",
+		"/home/jason/workspace/invoiceufront/src/MyConfig.php",
+		"/home/jason/WebProjects/PTNight/includes/views/EmptyView.tpl",
+		"/home/jason/workspace/mdown/src/Demo.hx",
+		"/home/jason/workspace/mdown/build.hxml",
+		"/home/jason/workspace/mdown/.gitignore",
+		"/home/jason/workspace/mdown/src/Markdown.hx",
+		"/home/jason/workspace/mdown/src/Test.hx",
+		"/home/jason/workspace/mdown/src/mdown/Markdown.hx",
+		"/home/jason/workspace/mdown/test/Test.hx",
+		"/home/jason/workspace/mdown/test/build.hxml",
+		"/home/jason/workspace/mdown/mdown-read-only/src/MarkdownExtra.hx",
+		"/usr/lib/haxe/lib/xirsys_stdjs/5,0,1/js/w3c/DOMTypes.hx",
+		"/home/jason/workspace/domtools/domtools/Events.hx",
+		"/home/jason/workspace/domtools/Readme.md",
+		"/home/jason/workspace/domtools/domtools/Query.hx",
+		"/home/jason/workspace/domtools/build.hxml",
+		"/home/jason/WebProjects/extjs/commands/09haxelib.sh",
+		"/home/jason/workspace/domtools/haxelib/package.sh",
+		"/home/jason/workspace/domtools/haxelib/haxelib.xml",
+		"/home/jason/WebProjects/extjs/build.hxml",
+		"/home/jason/WebProjects/extjs/commands/08package.sh",
+		"/home/jason/WebProjects/extjs/packageForHaxeLib.sh",
+		"/home/jason/workspace/domtools/domtools/Traversing.hx",
+		"/home/jason/workspace/domtools/domtools/ElementManipulation.hx",
+		"/home/jason/workspace/domtools/domtools/DOMManipulation.hx",
+		"/home/jason/workspace/domtools/domtools/AbstractCustomElement.hx",
+		"/usr/lib/haxe/lib/xirsys_stdjs/5,0,1/js/w3c/level3/Core.hx",
+		"/home/jason/workspace/domtools/dt/Traversing.hx",
+		"/home/jason/workspace/domtools/dt/Query.hx",
+		"/home/jason/workspace/domtools/dt/ElementManipulation.hx",
+		"/home/jason/workspace/domtools/dt/DOMManipulation.hx",
+		"/home/jason/workspace/domtools/test/Table.hx",
+		"/home/jason/workspace/domtools/dt/AbstractCustomElement.hx",
+		"/home/jason/workspace/domtools/test/index.html",
+		"/home/jason/workspace/domtools/domtools/single/Traversing.hx",
+		"/home/jason/workspace/domtools/domtools/single/DOMManipulation.hx",
+		"/home/jason/workspace/domtools/domtools/single/ElementManipulation.hx",
+		"/home/jason/Documents/Vose Work/Moodle/Administration Training",
+		"/home/jason/Documents/Young Adults/Creative Meeting 2012-01-19",
+		"/home/jason/workspace/domtools/domtools/NodeWrapper.hx",
+		"/home/jason/workspace/domtools/domtools/Collection.hx",
+		"/usr/share/haxe/std/Xml.hx",
+		"/home/jason/workspace/domtools/Main.hx",
+		"/usr/share/haxe/std/haxe/xml/Fast.hx",
+		"/home/jason/workspace/domtools/test/Main.hx",
+		"/home/jason/workspace/tests/Reception/test/button/testAS3.html",
+		"/usr/share/haxe/std/js/Lib.hx",
+		"/home/jason/WebProjects/extjs/haxe/ext/form/Basic.hx",
+		"/home/jason/WebProjects/extjs/jsduck-json/Ext.tab.Panel.json",
+		"/home/jason/workspace/Vose-Video-WebGUI/src/VoseProductionGUI.hx",
+		"/home/jason/workspace/Vose-Video-WebGUI/src/controllers/InterfaceController.hx",
+		"/home/jason/workspace/Vose-Video-WebGUI/src/ExtInterface.hx",
+		"/home/jason/WebProjects/extjs/haxe/Main.hx",
+		"/home/jason/workspace/Vose-Video-WebGUI/Vose-Video-WebGUI.sublime-project",
+		"/home/jason/WebProjects/extjs/ExtProject.sublime-project",
+		"/home/jason/workspace/Vose-Video-WebGUI/build.hxml",
+		"/var/tmp/kdecache-jason/krun/24309.0.Ext.hx",
+		"/var/tmp/kdecache-jason/krun/24290.0.HExpect.hx",
+		"/home/jason/WebProjects/extjs/haxe/ImportAll.hx",
+		"/home/jason/WebProjects/extjs/commands/02buildjs/BuildJS.hx",
+		"/usr/lib/haxe/lib/buildjs/1,05/src/BuildJS.hx",
+		"/home/jason/WebProjects/extjs/commands/02buildjs/run.hxml",
+		"/home/jason/WebProjects/extjs/download/src/core/src/lang/String.js",
+		"/home/jason/WebProjects/extjs/jsduck-json/Ext.String.json",
+		"/home/jason/WebProjects/extjs/download/ext.js",
+		"/usr/lib/haxe/lib/buildjs/1,05/src/tools/externs/parsers/JSDuckParser.hx",
+		"/usr/lib/haxe/lib/buildjs/1,05/src/tools/externs/parsers/ExtJsParser.hx",
+		"/usr/lib/haxe/lib/buildjs/1,05/src/tools/externs/parsers/SenchaTouchParser.hx",
+		"/home/jason/WebProjects/extjs/haxe/ext/window/MessageBox.hx",
+		"/home/jason/WebProjects/extjs/haxe/ext/MessageBox.hx",
+		"/home/jason/WebProjects/extjs/index.html",
+		"/home/jason/WebProjects/extjs/output.txt",
+		"/home/jason/WebProjects/extjs/haxe/ext/Component.hx",
+		"/home/jason/WebProjects/extjs/download/src/container/Container.js",
+		"/home/jason/WebProjects/extjs/jsduck-json/Ext.AbstractComponent.json",
+		"/home/jason/WebProjects/extjs/haxe/ext/container/AbstractContainer.hx",
+		"/home/jason/WebProjects/extjs/download/src/AbstractComponent.js",
+		"/home/jason/WebProjects/extjs/haxe/ext/dd/DragSource.hx",
+		"/home/jason/WebProjects/extjs/Commands to Run",
+		"/home/jason/WebProjects/extjs/haxe/ext/AbstractComponent.hx",
+		"/home/jason/WebProjects/extjs/haxe/ext/env/OS.hx",
+		"/home/jason/WebProjects/extjs/haxe/ext/env/Browser.hx",
+		"/home/jason/WebProjects/extjs/haxe/ext/Array.hx",
+		"/home/jason/WebProjects/extjs/jsduck-json/String.json",
+		"/usr/lib/haxe/lib/buildjs/1,05/src/tools/externs/parsers/AbstractParser.hx",
+		"/home/jason/WebProjects/extjs/haxe/Ext.hx",
+		"/home/jason/WebProjects/extjs/haxe/ext/String.hx",
+		"/home/jason/WebProjects/extjs/haxe/ext/slider/Thumb.hx",
+		"/home/jason/WebProjects/extjs/haxe/ext/Base.hx",
+		"/home/jason/WebProjects/extjs/haxe/ext/slider/Multi.hx",
+		"/home/jason/WebProjects/extjs/haxe/ext/slider/Single.hx",
+		"/home/jason/WebProjects/extjs/haxe/ext/Class.hx",
+		"/home/jason/WebProjects/extjs/haxe/Array.hx",
+		"/home/jason/WebProjects/extjs/haxe/ext/dd/build.hxml",
+		"/usr/lib/haxe/lib/buildjs/1,05/src/tools/externs/ExternGenerator.hx",
+		"/usr/share/haxe/std/js/Dom.hx",
+		"/usr/share/haxe/std/js/Selection.hx",
+		"/usr/share/haxe/std/js/XMLHttpRequest.hx",
+		"/usr/share/haxe/std/js/JQuery.hx",
+		"/home/jason/WebProjects/pwswiki/INSTALL",
+		"/home/jason/Documents/notes.txt",
+		"/home/jason/WebProjects/extjs/jsduck-json/Ext.json",
+		"/home/jason/WebProjects/extjs/jsduck-json/Array.json",
+		"/home/jason/WebProjects/extjs/download/jsbuilder/README.md",
+		"/home/jason/WebProjects/extjs/haxe/String.hx",
+		"/home/jason/WebProjects/extjs/download/src/dd/DragSource.js",
+		"/home/jason/WebProjects/pwswiki/LocalSettings.php"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/home/jason/workspace/domtools/domtools",
+			"/home/jason/workspace/domtools"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"uftools",
+			"viewTeacher",
+			"Filter",
+			"Test",
+			"makeHtml",
+			"Test",
+			"mdown(",
+			"function append(",
+			"first",
+			"Window",
+			"dt;",
+			"dt.",
+			"dt",
+			"inline ",
+			"query:Query",
+			"add(",
+			"elm",
+			"elm:Query",
+			":Node",
+			"NodeList",
+			"Document",
+			"Element = ",
+			"Element",
+			"NamedNodeMap",
+			"child",
+			"argumentError",
+			"String",
+			"Array;",
+			"ext.Container ",
+			"ext.Container",
+			"event",
+			"Event",
+			"ublic static var engineName:String;\n	public static var engineVersion:String;\n	public static var isSecure:Bool;\n	public static var isStrict:Bool;\n	public static var name:String;\n	public static var version:Version;",
+			"Array <Dynamic>",
+			"concat",
+			"processFile",
+			"senchatouch",
+			"sencha",
+			"concat",
+			"targetFlags",
+			"var"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"domtools;",
+			"domtools.",
+			"Array"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": ".mlib",
+					"settings":
+					{
+						"buffer_size": 299,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								276,
+								276
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "build.hxml",
+					"settings":
+					{
+						"buffer_size": 864,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								862,
+								862
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HaXe/Hxml.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 153.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/UFTool.hx",
+					"settings":
+					{
+						"buffer_size": 1730,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"haxe-build-id": 0,
+							"syntax": "Packages/HaXe/HaXe.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/cmd/InitCommand.hx",
+					"settings":
+					{
+						"buffer_size": 2708,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2702,
+								2702
+							]
+						],
+						"settings":
+						{
+							"haxe-build-id": 0,
+							"syntax": "Packages/HaXe/HaXe.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1505.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/usr/share/haxe/std/neko/zip/Uncompress.hx",
+					"settings":
+					{
+						"buffer_size": 2614,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								380,
+								380
+							]
+						],
+						"settings":
+						{
+							"haxe-build-id": 0,
+							"syntax": "Packages/HaXe/HaXe.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 204.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "templates/skeleton/.gitignore",
+					"settings":
+					{
+						"buffer_size": 100,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								39,
+								39
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"settings":
+					{
+						"buffer_size": 377,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								51,
+								51
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "templates/skeleton/README.md",
+					"settings":
+					{
+						"buffer_size": 3020,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3020,
+								3020
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "src/cmd/CreateControllerCommand.hx",
+					"settings":
+					{
+						"buffer_size": 383,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								128,
+								128
+							]
+						],
+						"settings":
+						{
+							"haxe-build-id": 0,
+							"syntax": "Packages/HaXe/HaXe.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "src/cmd/CreateModelCommand.hx",
+					"settings":
+					{
+						"buffer_size": 378,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								378
+							]
+						],
+						"settings":
+						{
+							"haxe-build-id": 0,
+							"syntax": "Packages/HaXe/HaXe.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "src/cmd/ServerCommand.hx",
+					"settings":
+					{
+						"buffer_size": 373,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								125,
+								125
+							]
+						],
+						"settings":
+						{
+							"haxe-build-id": 0,
+							"syntax": "Packages/HaXe/HaXe.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "src/UFToolInit.hx",
+					"settings":
+					{
+						"buffer_size": 659,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								60,
+								60
+							]
+						],
+						"settings":
+						{
+							"haxe-build-id": 0,
+							"syntax": "Packages/HaXe/HaXe.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "README.md",
+					"settings":
+					{
+						"buffer_size": 2855,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								109,
+								109
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.haxe":
+	{
+		"height": 112.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"tpl",
+				"src/basehx/tpl/Tpl.hx"
+			],
+			[
+				"teachercon",
+				"php/lib/controllers/TeacherController.class.php"
+			],
+			[
+				"",
+				"src/controllers/AdminController.hx"
+			],
+			[
+				"teache",
+				"src/controllers/TeacherController.hx"
+			],
+			[
+				"viewall",
+				"includes/views/admin/viewAllTeachers.tpl"
+			],
+			[
+				"domma",
+				"domtools/DOMManipulation.hx"
+			],
+			[
+				"ab",
+				"domtools/AbstractCustomElement.hx"
+			],
+			[
+				"list",
+				"src/easyas/CommandList.hx"
+			],
+			[
+				"edit",
+				"src/easyas/Editor.hx"
+			],
+			[
+				"commandl",
+				"src/easyas/CommandList.hx"
+			],
+			[
+				"giti",
+				".gitignore"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/home/jason/agworld/Agworld.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 235.0,
+	"status_bar_visible": true
+}

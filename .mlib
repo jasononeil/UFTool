@@ -1,0 +1,8 @@
+<mlib bin="build">
+	<resources>
+		<!-- Don't include source to the uftool.n <resource type="src" path="src" dest="" /> -->
+		<resource type="src" path="libsrc" dest="" />
+		<resource type="run" path="build/uftool.n" />
+		<resource type="license" path="resource/license.mtt" />
+	</resources>
+</mlib>

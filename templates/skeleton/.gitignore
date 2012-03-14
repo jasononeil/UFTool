@@ -1,0 +1,10 @@
+# Generated files
+build/*.n
+build/*.php
+
+# SQL stuff
+database.sqlite
+
+# Editor files
+.*~
+*.sublime-*

@@ -1,0 +1,22 @@
+-neko build/uftool.n
+-cp src/
+-main UFTool
+-lib mlib
+
+# Help file resources
+-resource templates/help/init.txt@help_init
+-resource templates/help/createModel.txt@help_createModel
+-resource templates/help/createController.txt@help_createController
+-resource templates/help/server.txt@help_server
+
+# Skeleton resources
+-resource templates/skeleton/build.hxml@skeleton_build_hxml
+-resource templates/skeleton/README.md@skeleton_README_md
+-resource templates/skeleton/.gitignore@skeleton__gitignore
+-resource templates/skeleton/.uftool@skeleton__uftool
+-resource templates/skeleton/src/Main.hx@skeleton_src_Main_hx
+-resource templates/skeleton/src/AppConfig.hx@skeleton_src_AppConfig_hx
+-resource templates/skeleton/src/MyConfig.hx@skeleton_src_MyConfig_hx
+-resource templates/skeleton/src/controller/InstallController.hx@skeleton_src_controller_InstallController_hx
+
+

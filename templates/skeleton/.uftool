@@ -1,0 +1,4 @@
+This is currently just a blank file that exists at the top
+of your apps repository, we use it to let us know when we're
+at the top level directory, so we can call uftool from sub-
+directories and always still find the right spot to work from.
