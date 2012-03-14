@@ -1,6 +1,9 @@
 UFTool - A tool to help set up UFront projects quickly
 ======================================================
 
+** PLEASE NOTE: this readme refers largely to the plan,
+not the reality.  Most of this doesn't work yet.  Sorry! **
+
 A few tips for UFront and UFtool
 ---------------------------------
 
