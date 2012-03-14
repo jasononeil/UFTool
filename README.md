@@ -27,19 +27,6 @@ Creates a model called "client" for the current project.  Models
 are based on haxe's SPOD framework, so they integrate into your
 database pretty easily.
 
-#    haxelib run uftool createtable Client
-#    haxelib run uftool -t Client
-#
-#Create a table in the database for the given model.  Currently, I have
-#no support for updating the table or entering sample data, though
-#both of these will be useful later.
-#
-#    haxelib run uftool createcontroller Invoicing
-#    haxelib run uftool -c Invoicing
-#### Do this from an InstallController
-#
-#
-
 Creates a new controller called "InvoicingController".  Each controller
 has a set of actions, which perform a separate action and render output 
 to the client.
