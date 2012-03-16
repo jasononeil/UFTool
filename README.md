@@ -72,3 +72,18 @@ project.  The server will be available by visiting
 
 Syntax to use: 
 nekotools server -p 2000 -h localhost -d c:\your\web\root\ -rewrite
+
+Database Setup
+--------------
+
+By default our init tool uses MySQL.  SQLite might be preferable for a quick setup, but I'm not sure how many of the SPOD Macro features work on it.  Will have to play... For now I'll try to make the MySQL setup as painless as possible.
+
+Anyway, basically, these are the commands we run in init
+
+	CREATE USER 'username'@'server' IDENTIFIED BY 'password';
+    
+	GRANT USAGE ON * . * TO 'username'@'server' IDENTIFIED BY 'password' WITH MAX_QUERIES_PER_HOUR 0 MAX_CONNECTIONS_PER_HOUR 0 MAX_UPDATES_PER_HOUR 0 MAX_USER_CONNECTIONS 0 ;
+    
+	CREATE DATABASE IF NOT EXISTS `database` ;
+    
+	GRANT ALL PRIVILEGES ON `database` . * TO 'username'@'server';

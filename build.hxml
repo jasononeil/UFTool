@@ -2,6 +2,7 @@
 -cp src/
 -main UFTool
 -lib mlib
+-lib erazor
 
 # Help file resources
 -resource templates/help/init.txt@help_init
@@ -19,4 +20,6 @@
 -resource templates/skeleton/src/MyConfig.hx@skeleton_src_MyConfig_hx
 -resource templates/skeleton/src/controller/InstallController.hx@skeleton_src_controller_InstallController_hx
 
+# Template resources
+-resource templates/tpl/MyConfig.hx@tpl_MyConfig
 
